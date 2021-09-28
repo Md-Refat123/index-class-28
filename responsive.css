@@ -1,0 +1,130 @@
+@media(max-width:774px){
+    .pricing-table ol li {
+        margin-left: -33px;
+    }
+    .deteals-section .card-1 {
+        margin: 0 0 93px 0;
+    }
+}
+@media(max-width:796px){
+    .pricing-table ol li {
+        margin-left: -38px;
+    }
+    .deteals-section .card-1 {
+        margin: 0 0 103px 0;
+    }
+    .deteals-section .card-2 {
+        margin: 0 0 93px 0;
+    }
+}
+@media(max-width:774px)
+{
+    .man img {
+        height: 410px;
+        margin-top: 62px;
+        display: block;
+    }
+    .rty {
+        margin: 129px 0 0 0;
+    }
+    .pricing-table h1 {
+        font-size: 28px;
+    }
+    .pricing-table .card {
+        margin: 31px 0 0 84px;
+    }
+    .man-2 img {
+        height: 256px;
+        display: block;
+    }
+    .pricing-table h5 {
+        font-size: 16px;
+    }
+    .deteals-section .card-1 {
+        margin: 0 0 103px 0;
+    }
+    .deteals-section .card-2 {
+        margin: 0 0 93px 0;
+    }
+    .deteals-section .card-3 {
+        margin: 0 0 93px 0;
+    }
+
+    .form-section button {
+        background-color: #17A2B8;
+        margin-left: 84px;
+    }
+    .pricing-table ol li {
+        font-size: 13px !important;
+        margin: 15px 0 15px 0 !important;
+    }
+    .pricing-table ol {
+        padding-left: 0;
+    }
+    .pricing-table .card button {
+        height: 45px;
+        line-height: 15px;
+    }
+    .man-2 img {
+        height: 308px;
+    }
+}
+@media(max-width:542px){
+    .mt-5 {
+        margin-top: 0 !important;
+    }
+    .rty {
+        margin: 0px 0 0 0;
+    }
+    .text-light {
+        padding: 10px;
+    }
+    .pricing-table h1 {
+        font-size: 26px;
+    }
+    .pricing-table h5 {
+        font-size: 16px;
+        margin: 0 37px;
+    }
+    .pricing-table .card {
+        margin: 31px 44px 0 29px;
+    }
+    .man img {
+        margin-top: -20px;
+        margin: auto;
+    }
+    .form-section button {
+        margin-left: 140px;
+    }
+}
+@media(max-width:534px){
+    .man img {
+        margin-top: 0;
+        margin: auto;
+    }
+    .form-section h5 {
+        font-weight: 100;
+    }
+    .form-section h1 {
+        font-size: 22px;
+    }
+    .form-section button {
+        margin-left: 117px;
+    }
+    footer {
+        font-weight: 600;
+        font-size: 13px !important;
+    }
+    .pricing-table .card {
+        margin: 30px 27px 0 25px;
+    }
+    .rty {
+        margin: 0px 0 0 0;
+    }
+    .mt-5 {
+        margin-top: 0rem !important;
+    }
+    .text-light {
+        padding: 10px;
+    }
+}
